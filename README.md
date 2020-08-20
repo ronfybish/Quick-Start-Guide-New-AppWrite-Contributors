@@ -3,10 +3,7 @@
 # Quick Start Guide - New AppWrite Contributors 🎯
 
 
-## **We know the process of creating a pull request is the biggest barrier for new contributors, we created very simple contributor-friendly issues to help onboard more people to become Open Source contributors.**
-
-
-<br/>
+**We know the process of creating a pull request is the biggest barrier for new contributors, we created very simple contributor-friendly issues to help onboard more people to become Open Source contributors.**
 
 ## **Who is for?** 🤔
 - Folks who haven't contributed to AppWrite codebase before.
