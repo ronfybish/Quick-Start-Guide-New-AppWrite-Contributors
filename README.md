@@ -2,8 +2,13 @@
 
 # Quick Start Guide - New AppWrite Contributors 🎯
 
+**We know the process of creating a pull request is the biggest barrier for new contributors. We created very simple contributor-friendly issues to help onboard more people to become Open Source contributors.**
 
-> **We know the process of creating a pull request is the biggest barrier for new contributors, we created very simple contributor-friendly issues to help onboard more people to become Open Source contributors.**
+**Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contributio**
+
+
+
+<br/>
 
 ## **Who is for?** 🤔
 - Folks who haven't contributed to AppWrite codebase before.
@@ -18,9 +23,7 @@
 
 <br/>
 
-#  **Step By Step: 📋**  
-## This steps approach aims at providing guidance & simplifying the way new folk make their first contribution in appwrite.
-<br/>
+##  **Step By Step: 📋**  
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
