@@ -3,9 +3,7 @@
 # Quick Start Guide - New AppWrite Contributors 🎯
 
 
-<br/>
-
-## *We know the process of creating a pull request is the biggest barrier for new contributors, we created very simple contributor-friendly issues to help onboard more people to become Open Source contributors.*
+## **We know the process of creating a pull request is the biggest barrier for new contributors, we created very simple contributor-friendly issues to help onboard more people to become Open Source contributors.**
 
 
 <br/>
@@ -14,30 +12,30 @@
 - Folks who haven't contributed to AppWrite codebase before.
 - People who are looking to make first contribution to Open Source.
 
-
+<br/>
 
 ##  **What you will need to know?**
 
 - **Nothing! _We are happy to walk you through the process (:_**   
 - Our communnity willing to hold your hand so you can make your first PR
+
 <br/>
 
-
-#  Step By Step 📋 
-### We wanted to create very simple contributor-friendly **issues** to help more people to become Open Source contributors for the first time in our project
+#  **Step By Step: 📋**  
+## This steps approach aims at providing guidance & simplifying the way new folk make their first contribution in appwrite.
 <br/>
-
-
 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-## Fork this repository
+## 1. Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+<br/>
+
+## 2. Clone the repository
 
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
@@ -64,18 +62,32 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 <br/>
 
 
-## Make necessary changes and commit those changes
+## 3. Open `appwrite-contributors.md` file in a text editor, add your name to it and save the file.
+<br/>
 
-Now open `appwrite-contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+```
+*
+*
+*
+    Add example image here
+*
+*
+*
+```
+
+<br/>
+
+## 4. commit those changes
 
 <img align="right" width="300" src="assets/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
+<br/>
 
 Add those changes using the `git add` command:
 
 ```
-git add Contributors.md
+git add appwrite-contributors.md
 ```
 
 Now commit those changes using the `git commit` command:
@@ -86,21 +98,26 @@ git commit -m "Add <your-name> to Contributors list"
 
 replacing `<your-name>` with your name.
 
-## Push changes to GitHub
+<br/>
+
+
+## 5. Push changes to GitHub
 
 Push your changes using the command `git push`:
 
 ```
 git push
 ```
+<br/>
 
-## Submit your changes for review
+## 6. Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
-## Start a Pull Request
+
+## 7. Start a Pull Request
 
 Now submit the pull request, click on `Create pull request`.
 
