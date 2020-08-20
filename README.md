@@ -23,8 +23,9 @@
 
 <br/>
 
-##  **Step By Step: 📋**  
+##  **Step By Step 📋**  
 
+<br/>
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
